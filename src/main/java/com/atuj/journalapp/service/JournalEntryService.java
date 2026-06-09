@@ -1,7 +1,7 @@
-package com.learn.journalApp.service;
+package com.atuj.journalapp.service;
 
-import com.learn.journalApp.entity.JournalEntry;
-import com.learn.journalApp.repository.JournalEntryRepository;
+import com.atuj.journalapp.entity.JournalEntry;
+import com.atuj.journalapp.repository.JournalEntryRepository;
 import org.bson.types.ObjectId;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

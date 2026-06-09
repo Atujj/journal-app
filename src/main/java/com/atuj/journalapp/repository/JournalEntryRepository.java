@@ -1,7 +1,6 @@
-package com.learn.journalApp.repository;
+package com.atuj.journalapp.repository;
 
-import com.learn.journalApp.entity.JournalEntry;
-import com.learn.journalApp.service.JournalEntryService;
+import com.atuj.journalapp.entity.JournalEntry;
 import org.bson.types.ObjectId;
 import org.springframework.data.mongodb.repository.MongoRepository;
 

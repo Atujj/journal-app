@@ -1,8 +1,7 @@
-package com.learn.journalApp.controller;
+package com.atuj.journalapp.controller;
 
-import com.learn.journalApp.JournalApplication;
-import com.learn.journalApp.entity.JournalEntry;
-import com.learn.journalApp.service.JournalEntryService;
+import com.atuj.journalapp.entity.JournalEntry;
+import com.atuj.journalapp.service.JournalEntryService;
 import org.bson.types.ObjectId;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

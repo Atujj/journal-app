@@ -1,4 +1,4 @@
-package com.learn.journalApp;
+package com.atuj.journalapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
