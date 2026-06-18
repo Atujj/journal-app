@@ -22,10 +22,10 @@ class UserController {
     @Autowired
     private UserRepository userRepository;
 
-    @GetMapping
-    public List<User> getAll(){
-        return userService.getAll();
-    }
+//    @GetMapping
+//    public List<User> getAll(){
+//        return userService.getAll();
+//    }
 
     @PutMapping
     public ResponseEntity<?> updateUser(@RequestBody User user){
